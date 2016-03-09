@@ -1,4 +1,4 @@
-2016-03-07 18:28:38.0376|INFO|thread: 1|ReactiveScreen|Activating GitHub.ViewModels.AboutViewModel.
+﻿2016-03-07 18:28:38.0376|INFO|thread: 1|ReactiveScreen|Activating GitHub.ViewModels.AboutViewModel.
 2016-03-07 18:23:21.5855|INFO|thread: 1|CommandLineHandler|Parsing command line arguments:C:\Users\sunlight\AppData\Local\Apps\2.0\0J1JXG5C.OOE\XXYLP1LO.K8D\gith..tion_317444273a93ac29_0002.000b_d12b9599b2fb59e5\GitHub.exe
 2016-03-07 18:23:21.6646|INFO|thread: 1|AppInstanceCommunicator|An instance of GitHub for Windows is already running. Checking to see if we should pass control...
 2016-03-07 18:23:21.6646|INFO|thread: 1|AppInstanceCommunicator|Not a call to clone a repo, so just run the app as usual.
@@ -163,6 +163,7 @@ System.Net.Http.HttpRequestException: An error occurred while sending the reques
 2016-03-07 18:24:53.9122|INFO|thread: 1|GitEnvironment|PATH is C:\Users\sunlight\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\cmd;C:\Users\sunlight\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\bin;C:\Users\sunlight\AppData\Local\Apps\2.0\0J1JXG5C.OOE\XXYLP1LO.K8D\gith..tion_317444273a93ac29_0002.000b_d12b9599b2fb59e5;C:\Users\sunlight\AppData\Local\GitHub\hawser-amd64_0.4.0;C:\Program Files (x86)\MSBuild\12.0\bin;C:\WINDOWS\System32
 2016-03-07 18:24:53.9122|INFO|thread: 1|ProcessWrapper|Starting: Process - FileName: 'C:\Users\sunlight\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\bin\git.exe', Args: 'diff-tree --root -m -r -z --numstat 21cf106dc29a6627f2e05d2fc8bef944a3a8c971 ', Working Directory: D:\github\CluodMall
 2016-03-07 18:25:06.6158|INFO|thread: 1|GitEnvironment|Process set up with this SSH Agent info: (null):(null)
+aaaaa
 2016-03-07 18:25:06.6158|INFO|thread: 1|GitEnvironment|PATH is C:\Users\sunlight\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\cmd;C:\Users\sunlight\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\bin;C:\Users\sunlight\AppData\Local\Apps\2.0\0J1JXG5C.OOE\XXYLP1LO.K8D\gith..tion_317444273a93ac29_0002.000b_d12b9599b2fb59e5;C:\Users\sunlight\AppData\Local\GitHub\hawser-amd64_0.4.0;C:\Program Files (x86)\MSBuild\12.0\bin;C:\WINDOWS\System32
 2016-03-07 18:25:06.6158|INFO|thread: 1|ProcessWrapper|Starting: Process - FileName: 'C:\Users\sunlight\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\bin\git.exe', Args: 'diff-tree --root -m -r -z --name-status f43bc1c410a6771e075bce71237aa58c0eb6e628 ', Working Directory: D:\github\CluodMall
 2016-03-07 18:25:06.6303|INFO|thread: 1|GitEnvironment|Process set up with this SSH Agent info: (null):(null)
