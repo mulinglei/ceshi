@@ -1,0 +1,410 @@
+2016-03-07 18:28:38.0376|INFO|thread: 1|ReactiveScreen|Activating GitHub.ViewModels.AboutViewModel.
+2016-03-07 18:23:21.5855|INFO|thread: 1|CommandLineHandler|Parsing command line arguments:C:\Users\sunlight\AppData\Local\Apps\2.0\0J1JXG5C.OOE\XXYLP1LO.K8D\gith..tion_317444273a93ac29_0002.000b_d12b9599b2fb59e5\GitHub.exe
+2016-03-07 18:23:21.6646|INFO|thread: 1|AppInstanceCommunicator|An instance of GitHub for Windows is already running. Checking to see if we should pass control...
+2016-03-07 18:23:21.6646|INFO|thread: 1|AppInstanceCommunicator|Not a call to clone a repo, so just run the app as usual.
+2016-03-07 18:23:22.5648|INFO|thread: 1|HardwareRenderingHelper|Your video card appears to support hardware rendering. If this isn't the case and you see glitches
+2016-03-07 18:23:22.5648|INFO|thread: 1|HardwareRenderingHelper|set the GH_FORCE_SW_RENDERING environment variable to 1
+2016-03-07 18:23:22.6589|INFO|thread: 5|StartupLogging| #########################################
+2016-03-07 18:23:22.6589|INFO|thread: 5|StartupLogging| GitHub for Windows started. VERSION: 2.11.0.5
+2016-03-07 18:23:22.6589|INFO|thread: 5|StartupLogging| Build version: 0dbbd3940e474bb375c1b754c9a29d5569263abd
+2016-03-07 18:23:22.6589|INFO|thread: 5|StartupLogging| ***************************************
+2016-03-07 18:23:22.6589|INFO|thread: 5|StartupLogging| ***                                 ***
+2016-03-07 18:23:22.6589|INFO|thread: 5|StartupLogging| ***                                 ***
+2016-03-07 18:23:22.6589|INFO|thread: 5|StartupLogging| ***        Have a problem?          ***
+2016-03-07 18:23:22.6589|INFO|thread: 5|StartupLogging| ***    Email support@github.com     ***
+2016-03-07 18:23:22.6589|INFO|thread: 5|StartupLogging| ***      and include this file      ***
+2016-03-07 18:23:22.6589|INFO|thread: 5|StartupLogging| ***                                 ***
+2016-03-07 18:23:22.6589|INFO|thread: 5|StartupLogging| ***                                 ***
+2016-03-07 18:23:22.6589|INFO|thread: 5|StartupLogging| ***************************************
+2016-03-07 18:23:22.6589|INFO|thread: 5|StartupLogging| OS Version: Windows NT 6.3.9600.0 amd64
+2016-03-07 18:23:22.6589|INFO|thread: 5|StartupLogging| CLR Version: 4.0.30319.42000
+2016-03-07 18:23:22.6589|INFO|thread: 5|StartupLogging| Current culture: zh-CN
+2016-03-07 18:23:22.7320|INFO|thread: 5|StartupLogging| Terminal Services session: no
+2016-03-07 18:23:22.7320|INFO|thread: 5|StartupLogging| Location: C:\Users\sunlight\AppData\Local\Apps\2.0\0J1JXG5C.OOE\XXYLP1LO.K8D\gith..tion_317444273a93ac29_0002.000b_d12b9599b2fb59e5\GitHub.exe
+2016-03-07 18:23:22.8410|INFO|thread: 5|StartupLogging| ActivationUri: https://github-windows.s3.amazonaws.com/GitHub.application
+2016-03-07 18:23:23.5545|INFO|thread: 5|GitEnvironment|Process set up with this SSH Agent info: (null):(null)
+2016-03-07 18:23:23.5545|INFO|thread: 5|GitEnvironment|PATH is C:\Users\sunlight\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\cmd;C:\Users\sunlight\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\bin;C:\Users\sunlight\AppData\Local\Apps\2.0\0J1JXG5C.OOE\XXYLP1LO.K8D\gith..tion_317444273a93ac29_0002.000b_d12b9599b2fb59e5;C:\Users\sunlight\AppData\Local\GitHub\hawser-amd64_0.4.0;C:\Program Files (x86)\MSBuild\12.0\bin;C:\Program Files\Java\jdk1.7.0_45\bin;C:\Program Files\Java\jdk1.7.0_45\jre\bin;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static;C:\ProgramData\Lenovo\ReadyApps;C:\Program Files\Microsoft\Web Platform Installer\;C:\Program Files (x86)\Windows Kits\8.1\Windows Performance Toolkit\;C:\Program Files\Microsoft SQL Server\110\Tools\Binn\;C:\Program Files (x86)\Microsoft SDKs\TypeScript\1.0\;C:\Program Files\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files\TortoiseSVN\bin;C:\Program Files (x86)\SSH Communications Security\SSH Secure Shell
+2016-03-07 18:23:23.5885|INFO|thread: 5|StartupLogging| =====================================================
+2016-03-07 18:23:23.5885|INFO|thread: 5|StartupLogging|  DIAGNOSTICS                                        |
+2016-03-07 18:23:23.5885|INFO|thread: 5|StartupLogging| =====================================================
+2016-03-07 18:23:23.6536|INFO|thread: 5|StartupLogging| Git Extracted: 'True:
+2016-03-07 18:23:23.6536|INFO|thread: 5|StartupLogging| PortableGit Dir Exists: 'C:\Users\sunlight\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad'
+2016-03-07 18:23:23.6576|INFO|thread: 5|StartupLogging| Git Executable Exists: 'C:\Users\sunlight\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\bin\git.exe'
+2016-03-07 18:23:23.6576|ERROR|thread: 5|StartupLogging| MISSING PATH!!: 'C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static'
+2016-03-07 18:23:23.6576|INFO|thread: 5|StartupLogging| ----------------------------------------------------
+2016-03-07 18:23:23.6576|INFO|thread: 5|StartupLogging| PATH: C:\Program Files\Java\jdk1.7.0_45\bin;C:\Program Files\Java\jdk1.7.0_45\jre\bin;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static;C:\ProgramData\Lenovo\ReadyApps;C:\Program Files\Microsoft\Web Platform Installer\;C:\Program Files (x86)\Windows Kits\8.1\Windows Performance Toolkit\;C:\Program Files\Microsoft SQL Server\110\Tools\Binn\;C:\Program Files (x86)\Microsoft SDKs\TypeScript\1.0\;C:\Program Files\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files\TortoiseSVN\bin;C:\Program Files (x86)\SSH Communications Security\SSH Secure Shell
+2016-03-07 18:23:24.1940|INFO|thread: 5|StartupLogger|Proxy information: (None)
+2016-03-07 18:23:24.1940|INFO|thread: 5|StartupLogger|Couldn't fetch creds for proxy
+2016-03-07 18:23:25.6200|INFO|thread: 5|PortablePackageManager|Already extracted PortableGit.7z, returning 100%
+2016-03-07 18:23:28.1088|INFO|thread: 5|MsysGitCertificateInstaller|Found certificate cache, loaded 162 certificates
+2016-03-07 18:23:28.2949|INFO|thread: 5|MsysGitCertificateInstaller|Created certificate bundle with 185 entries
+2016-03-07 18:23:28.5971|ERROR|thread: 5|StartupManager|Could not install system derived certificate authority bundle, falling back to stock
+System.IO.IOException: 当文件已存在时，无法创建该文件。
+
+   在 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   在 System.IO.File.InternalMove(String sourceFileName, String destFileName, Boolean checkHost)
+   在 GitHub.IO.GitHubFile.MoveTo(String target)
+   在 GitHub.Helpers.MsysGitCertificateInstaller.<>c__DisplayClassa.<WriteCustomBundleFile>b__9()
+   在 System.Reactive.Linq.ObservableImpl.Defer`1.Eval()
+   在 System.Reactive.Linq.ObservableImpl.Defer`1._.Run()
+2016-03-07 18:23:29.5868|INFO|thread: 1|App|Checking whether application is network deployed.
+2016-03-07 18:23:30.2413|WARN|thread: 5|StartupManager|Failed setting system SSL certificate bundle to stock bundle
+LibGit2Sharp.LockedFileException: Failed to lock file 'C:/Users/sunlight/AppData/Local/GitHub/PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad/etc/gitconfig.lock' for writing: 
+   在 LibGit2Sharp.Core.Ensure.HandleError(Int32 result)
+   在 LibGit2Sharp.Core.Proxy.git_config_set_string(ConfigurationSafeHandle config, String name, String value)
+   在 LibGit2Sharp.Configuration.<>c__DisplayClass1`1.<GetUpdater>b__0(String key, Object val, ConfigurationSafeHandle handle)
+   在 LibGit2Sharp.Configuration.Set[T](String key, T value, ConfigurationLevel level)
+   在 GitHub.Helpers.MsysGitCertificateInstaller.<>c__DisplayClass1.<SetSystemConfigurationSslCaInfo>b__0()
+   在 System.Reactive.Linq.ObservableImpl.Defer`1.Eval()
+   在 System.Reactive.Linq.ObservableImpl.Defer`1._.Run()
+2016-03-07 18:23:32.5649|INFO|thread: 1|ClickOnceAppIconHelper|Updating registry with our application icon 'C:\Users\sunlight\AppData\Local\Apps\2.0\0J1JXG5C.OOE\XXYLP1LO.K8D\gith..tion_317444273a93ac29_0002.000b_d12b9599b2fb59e5\Images\App.ico'
+2016-03-07 18:23:44.5376|INFO|thread: 1|GitExtractionVisualHelper|Portable Git is already extracted
+2016-03-07 18:23:44.7037|INFO|thread: 1|ReactiveScreen|Activating GitHub.ViewModels.ShellViewModel.
+2016-03-07 18:23:44.7037|INFO|thread: 1|ReactiveScreen|Activating GitHub.ViewModels.DashboardViewModel.
+2016-03-07 18:23:52.0969|INFO|thread: 1|PortablePackageManager|Already extracted gitignore.7z, returning 100%
+2016-03-07 18:23:57.3763|WARN|thread: 1|RepositoryHost|Got an authorization exception
+Octokit.AuthorizationException: Bad credentials
+   在 Octokit.Connection.HandleErrors(IResponse response)
+   在 Octokit.Connection.<RunRequest>d__23.MoveNext()
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   在 Octokit.Connection.<Run>d__1f`1.MoveNext()
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   在 Octokit.ApiConnection.<Get>d__0`1.MoveNext()
+2016-03-07 18:23:57.9377|INFO|thread: 1|RepositoryHost|Log in from cache for login '(null)' to host 'https://api.github.com/' FAILED
+2016-03-07 18:24:00.4796|INFO|thread: 1|RepositoryHost|Log in from cache for login '(null)' to host 'https://api.github.com/' FAILED
+2016-03-07 18:24:05.2259|WARN|thread:18|SoftwareUpdateViewModel|Couldn't fetch ChangeLog
+System.Net.Http.HttpRequestException: An error occurred while sending the request. ---> System.Net.WebException: 无法连接到远程服务器 ---> System.Net.Sockets.SocketException: 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。 54.231.10.233:443
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 System.Net.HttpWebRequest.EndGetResponse(IAsyncResult asyncResult)
+   在 System.Net.Http.HttpClientHandler.GetResponseCallback(IAsyncResult ar)
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   在 Octokit.Internal.HttpClientAdapter.<Send>d__2.MoveNext()
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   在 Octokit.Connection.<RunRequest>d__23.MoveNext()
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   在 Octokit.Connection.<Run>d__1f`1.MoveNext()
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   在 Octokit.ApiConnection.<Get>d__0`1.MoveNext()
+2016-03-07 18:24:38.8745|INFO|thread: 1|RepositoryCreator|Creating and initializing new local repository here 'D:\github\CluodMall'
+2016-03-07 18:24:39.7296|INFO|thread: 4|AsyncReaderWriterLock|Acquiring exclusive lock for operation 1: 'CreateCommit' on resource D:\github\CluodMall\.git
+2016-03-07 18:24:39.7597|INFO|thread:10|AsyncReaderWriterLock|Acquired exclusive lock for operation 1: 'CreateCommit' on resource D:\github\CluodMall\.git
+2016-03-07 18:24:39.7837|INFO|thread:23|ExclusiveRepositoryConnection|Creating Commit
+2016-03-07 18:24:40.1645|INFO|thread:23|ExclusiveRepositoryConnection|Creating new commit with 2 file(s). :neckbeard: Added .gitattributes & .gitignore files
+2016-03-07 18:24:40.2776|INFO|thread:23|RepositoryCreator|Created repository sucessfully: 'D:\github\CluodMall'
+2016-03-07 18:24:40.2776|INFO|thread:23|AsyncReaderWriterLock|Released exclusive lock for operation 1: 'CreateCommit' on resource D:\github\CluodMall\.git
+2016-03-07 18:24:41.0296|INFO|thread:17|AsyncReaderWriterLock|Acquiring concurrent lock for operation 2: 'GetRecentBranchNames' on resource D:\github\CluodMall\.git
+2016-03-07 18:24:41.0296|INFO|thread: 5|AsyncReaderWriterLock|Acquired concurrent lock for operation 2: 'GetRecentBranchNames' on resource D:\github\CluodMall\.git
+2016-03-07 18:24:41.0871|INFO|thread:25|GitEnvironment|Process set up with this SSH Agent info: (null):(null)
+2016-03-07 18:24:41.0871|INFO|thread:25|GitEnvironment|PATH is C:\Users\sunlight\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\cmd;C:\Users\sunlight\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\bin;C:\Users\sunlight\AppData\Local\Apps\2.0\0J1JXG5C.OOE\XXYLP1LO.K8D\gith..tion_317444273a93ac29_0002.000b_d12b9599b2fb59e5;C:\Users\sunlight\AppData\Local\GitHub\hawser-amd64_0.4.0;C:\Program Files (x86)\MSBuild\12.0\bin;C:\WINDOWS\System32
+2016-03-07 18:24:41.1057|INFO|thread:25|ProcessWrapper|Starting: Process - FileName: 'C:\Users\sunlight\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\bin\git.exe', Args: 'log -g --abbrev-commit --pretty=oneline HEAD -n 2500 ', Working Directory: D:\github\CluodMall\
+2016-03-07 18:24:41.6316|INFO|thread: 4|GitClient|Loading commits for repo: D:\github\CluodMall
+2016-03-07 18:24:41.6546|INFO|thread:12|AsyncReaderWriterLock|Released concurrent lock for operation 2: 'GetRecentBranchNames' on resource D:\github\CluodMall\.git
+2016-03-07 18:24:41.7657|INFO|thread: 4|RepositoryConnection|Loaded '1' commits for repo: D:\github\CluodMall\.
+2016-03-07 18:24:42.4402|INFO|thread: 1|RepositoryViewModel|Refreshing all information for repo
+2016-03-07 18:24:42.4402|INFO|thread:10|AsyncReaderWriterLock|Acquiring concurrent lock for operation 3: 'LoadHeadForRepo' on resource D:\github\CluodMall\.git
+2016-03-07 18:24:42.4402|INFO|thread:17|AsyncReaderWriterLock|Acquired concurrent lock for operation 3: 'LoadHeadForRepo' on resource D:\github\CluodMall\.git
+2016-03-07 18:24:42.4842|INFO|thread:25|AsyncReaderWriterLock|Released concurrent lock for operation 3: 'LoadHeadForRepo' on resource D:\github\CluodMall\.git
+2016-03-07 18:24:43.7877|INFO|thread:10|AsyncReaderWriterLock|Acquiring concurrent lock for operation 4: 'LoadFilesInWorkingDirectory' on resource D:\github\CluodMall\.git
+2016-03-07 18:24:43.7877|INFO|thread:17|AsyncReaderWriterLock|Acquired concurrent lock for operation 4: 'LoadFilesInWorkingDirectory' on resource D:\github\CluodMall\.git
+2016-03-07 18:24:43.7992|INFO|thread:25|GitEnvironment|Process set up with this SSH Agent info: (null):(null)
+2016-03-07 18:24:43.7992|INFO|thread:25|GitEnvironment|PATH is C:\Users\sunlight\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\cmd;C:\Users\sunlight\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\bin;C:\Users\sunlight\AppData\Local\Apps\2.0\0J1JXG5C.OOE\XXYLP1LO.K8D\gith..tion_317444273a93ac29_0002.000b_d12b9599b2fb59e5;C:\Users\sunlight\AppData\Local\GitHub\hawser-amd64_0.4.0;C:\Program Files (x86)\MSBuild\12.0\bin;C:\WINDOWS\System32
+2016-03-07 18:24:43.7992|INFO|thread:25|ProcessWrapper|Starting: Process - FileName: 'C:\Users\sunlight\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\bin\git.exe', Args: 'status --untracked-files=all --porcelain -z ', Working Directory: D:\github\CluodMall\
+2016-03-07 18:24:43.7992|INFO|thread:12|GitClient|Loading commits for repo: D:\github\CluodMall
+2016-03-07 18:24:43.8122|INFO|thread:12|RepositoryConnection|Loaded '1' commits for repo: D:\github\CluodMall\.
+2016-03-07 18:24:43.8747|INFO|thread: 4|GitClient|Loading commits for repo: D:\github\CluodMall
+2016-03-07 18:24:43.8747|INFO|thread: 4|RepositoryConnection|Loaded '1' commits for repo: D:\github\CluodMall\.
+2016-03-07 18:24:43.8747|INFO|thread:12|AsyncReaderWriterLock|Released concurrent lock for operation 4: 'LoadFilesInWorkingDirectory' on resource D:\github\CluodMall\.git
+2016-03-07 18:24:44.0832|INFO|thread: 1|SyncButtonViewModel|Refresh ahead/behind counts skipped because branch isn't published: refs/heads/master
+2016-03-07 18:24:44.0922|INFO|thread: 1|GitEnvironment|Process set up with this SSH Agent info: (null):(null)
+2016-03-07 18:24:44.0922|INFO|thread: 1|GitEnvironment|PATH is C:\Users\sunlight\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\cmd;C:\Users\sunlight\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\bin;C:\Users\sunlight\AppData\Local\Apps\2.0\0J1JXG5C.OOE\XXYLP1LO.K8D\gith..tion_317444273a93ac29_0002.000b_d12b9599b2fb59e5;C:\Users\sunlight\AppData\Local\GitHub\hawser-amd64_0.4.0;C:\Program Files (x86)\MSBuild\12.0\bin;C:\WINDOWS\System32
+2016-03-07 18:24:44.0922|INFO|thread: 1|ProcessWrapper|Starting: Process - FileName: 'C:\Users\sunlight\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\bin\git.exe', Args: 'diff-tree --root -m -r -z --name-status f43bc1c410a6771e075bce71237aa58c0eb6e628 ', Working Directory: D:\github\CluodMall
+2016-03-07 18:24:44.0922|INFO|thread: 1|GitEnvironment|Process set up with this SSH Agent info: (null):(null)
+2016-03-07 18:24:44.0922|INFO|thread: 1|GitEnvironment|PATH is C:\Users\sunlight\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\cmd;C:\Users\sunlight\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\bin;C:\Users\sunlight\AppData\Local\Apps\2.0\0J1JXG5C.OOE\XXYLP1LO.K8D\gith..tion_317444273a93ac29_0002.000b_d12b9599b2fb59e5;C:\Users\sunlight\AppData\Local\GitHub\hawser-amd64_0.4.0;C:\Program Files (x86)\MSBuild\12.0\bin;C:\WINDOWS\System32
+2016-03-07 18:24:44.0922|INFO|thread: 1|ProcessWrapper|Starting: Process - FileName: 'C:\Users\sunlight\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\bin\git.exe', Args: 'diff-tree --root -m -r -z --numstat f43bc1c410a6771e075bce71237aa58c0eb6e628 ', Working Directory: D:\github\CluodMall
+2016-03-07 18:24:44.1277|INFO|thread: 1|SyncButtonViewModel|Refresh ahead/behind counts skipped because branch isn't published: refs/heads/master
+2016-03-07 18:24:52.4196|INFO|thread:15|AsyncReaderWriterLock|Acquiring exclusive lock for operation 5: 'RevertCommit' on resource D:\github\CluodMall\.git
+2016-03-07 18:24:52.4196|INFO|thread:20|AsyncReaderWriterLock|Acquired exclusive lock for operation 5: 'RevertCommit' on resource D:\github\CluodMall\.git
+2016-03-07 18:24:52.4276|INFO|thread:25|GitEnvironment|Process set up with this SSH Agent info: (null):(null)
+2016-03-07 18:24:52.4276|INFO|thread:25|GitEnvironment|PATH is C:\Users\sunlight\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\cmd;C:\Users\sunlight\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\bin;C:\Users\sunlight\AppData\Local\Apps\2.0\0J1JXG5C.OOE\XXYLP1LO.K8D\gith..tion_317444273a93ac29_0002.000b_d12b9599b2fb59e5;C:\Users\sunlight\AppData\Local\GitHub\hawser-amd64_0.4.0;C:\Program Files (x86)\MSBuild\12.0\bin;C:\WINDOWS\System32
+2016-03-07 18:24:52.4276|INFO|thread:25|ProcessWrapper|Starting: Process - FileName: 'C:\Users\sunlight\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\bin\git.exe', Args: 'revert f43bc1c410a6771e075bce71237aa58c0eb6e628 ', Working Directory: D:\github\CluodMall\
+2016-03-07 18:24:52.6920|INFO|thread:14|AsyncReaderWriterLock|Released exclusive lock for operation 5: 'RevertCommit' on resource D:\github\CluodMall\.git
+2016-03-07 18:24:52.6920|INFO|thread: 4|AsyncReaderWriterLock|Acquiring concurrent lock for operation 6: 'LoadHeadForRepo' on resource D:\github\CluodMall\.git
+2016-03-07 18:24:52.6920|INFO|thread: 4|AsyncReaderWriterLock|Acquired concurrent lock for operation 6: 'LoadHeadForRepo' on resource D:\github\CluodMall\.git
+2016-03-07 18:24:52.7145|INFO|thread:23|AsyncReaderWriterLock|Released concurrent lock for operation 6: 'LoadHeadForRepo' on resource D:\github\CluodMall\.git
+2016-03-07 18:24:52.7145|INFO|thread:10|AsyncReaderWriterLock|Acquiring concurrent lock for operation 7: 'LoadFilesInWorkingDirectory' on resource D:\github\CluodMall\.git
+2016-03-07 18:24:52.7145|INFO|thread:17|AsyncReaderWriterLock|Acquired concurrent lock for operation 7: 'LoadFilesInWorkingDirectory' on resource D:\github\CluodMall\.git
+2016-03-07 18:24:52.7240|INFO|thread:18|GitClient|Loading commits for repo: D:\github\CluodMall
+2016-03-07 18:24:52.7240|INFO|thread:25|GitEnvironment|Process set up with this SSH Agent info: (null):(null)
+2016-03-07 18:24:52.7240|INFO|thread:25|GitEnvironment|PATH is C:\Users\sunlight\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\cmd;C:\Users\sunlight\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\bin;C:\Users\sunlight\AppData\Local\Apps\2.0\0J1JXG5C.OOE\XXYLP1LO.K8D\gith..tion_317444273a93ac29_0002.000b_d12b9599b2fb59e5;C:\Users\sunlight\AppData\Local\GitHub\hawser-amd64_0.4.0;C:\Program Files (x86)\MSBuild\12.0\bin;C:\WINDOWS\System32
+2016-03-07 18:24:52.7240|INFO|thread:25|ProcessWrapper|Starting: Process - FileName: 'C:\Users\sunlight\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\bin\git.exe', Args: 'status --untracked-files=all --porcelain -z ', Working Directory: D:\github\CluodMall\
+2016-03-07 18:24:52.7240|INFO|thread:18|RepositoryConnection|Loaded '2' commits for repo: D:\github\CluodMall\.
+2016-03-07 18:24:52.7475|INFO|thread:15|GitClient|Loading commits for repo: D:\github\CluodMall
+2016-03-07 18:24:52.7500|INFO|thread:15|RepositoryConnection|Loaded '2' commits for repo: D:\github\CluodMall\.
+2016-03-07 18:24:52.7941|INFO|thread:12|AsyncReaderWriterLock|Released concurrent lock for operation 7: 'LoadFilesInWorkingDirectory' on resource D:\github\CluodMall\.git
+2016-03-07 18:24:52.8291|INFO|thread: 1|SyncButtonViewModel|Refresh ahead/behind counts skipped because branch isn't published: refs/heads/master
+2016-03-07 18:24:53.9002|INFO|thread: 1|GitEnvironment|Process set up with this SSH Agent info: (null):(null)
+2016-03-07 18:24:53.9002|INFO|thread: 1|GitEnvironment|PATH is C:\Users\sunlight\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\cmd;C:\Users\sunlight\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\bin;C:\Users\sunlight\AppData\Local\Apps\2.0\0J1JXG5C.OOE\XXYLP1LO.K8D\gith..tion_317444273a93ac29_0002.000b_d12b9599b2fb59e5;C:\Users\sunlight\AppData\Local\GitHub\hawser-amd64_0.4.0;C:\Program Files (x86)\MSBuild\12.0\bin;C:\WINDOWS\System32
+2016-03-07 18:24:53.9002|INFO|thread: 1|ProcessWrapper|Starting: Process - FileName: 'C:\Users\sunlight\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\bin\git.exe', Args: 'diff-tree --root -m -r -z --name-status 21cf106dc29a6627f2e05d2fc8bef944a3a8c971 ', Working Directory: D:\github\CluodMall
+2016-03-07 18:24:53.9122|INFO|thread: 1|GitEnvironment|Process set up with this SSH Agent info: (null):(null)
+2016-03-07 18:24:53.9122|INFO|thread: 1|GitEnvironment|PATH is C:\Users\sunlight\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\cmd;C:\Users\sunlight\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\bin;C:\Users\sunlight\AppData\Local\Apps\2.0\0J1JXG5C.OOE\XXYLP1LO.K8D\gith..tion_317444273a93ac29_0002.000b_d12b9599b2fb59e5;C:\Users\sunlight\AppData\Local\GitHub\hawser-amd64_0.4.0;C:\Program Files (x86)\MSBuild\12.0\bin;C:\WINDOWS\System32
+2016-03-07 18:24:53.9122|INFO|thread: 1|ProcessWrapper|Starting: Process - FileName: 'C:\Users\sunlight\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\bin\git.exe', Args: 'diff-tree --root -m -r -z --numstat 21cf106dc29a6627f2e05d2fc8bef944a3a8c971 ', Working Directory: D:\github\CluodMall
+2016-03-07 18:25:06.6158|INFO|thread: 1|GitEnvironment|Process set up with this SSH Agent info: (null):(null)
+2016-03-07 18:25:06.6158|INFO|thread: 1|GitEnvironment|PATH is C:\Users\sunlight\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\cmd;C:\Users\sunlight\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\bin;C:\Users\sunlight\AppData\Local\Apps\2.0\0J1JXG5C.OOE\XXYLP1LO.K8D\gith..tion_317444273a93ac29_0002.000b_d12b9599b2fb59e5;C:\Users\sunlight\AppData\Local\GitHub\hawser-amd64_0.4.0;C:\Program Files (x86)\MSBuild\12.0\bin;C:\WINDOWS\System32
+2016-03-07 18:25:06.6158|INFO|thread: 1|ProcessWrapper|Starting: Process - FileName: 'C:\Users\sunlight\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\bin\git.exe', Args: 'diff-tree --root -m -r -z --name-status f43bc1c410a6771e075bce71237aa58c0eb6e628 ', Working Directory: D:\github\CluodMall
+2016-03-07 18:25:06.6303|INFO|thread: 1|GitEnvironment|Process set up with this SSH Agent info: (null):(null)
+2016-03-07 18:25:06.6303|INFO|thread: 1|GitEnvironment|PATH is C:\Users\sunlight\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\cmd;C:\Users\sunlight\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\bin;C:\Users\sunlight\AppData\Local\Apps\2.0\0J1JXG5C.OOE\XXYLP1LO.K8D\gith..tion_317444273a93ac29_0002.000b_d12b9599b2fb59e5;C:\Users\sunlight\AppData\Local\GitHub\hawser-amd64_0.4.0;C:\Program Files (x86)\MSBuild\12.0\bin;C:\WINDOWS\System32
+2016-03-07 18:25:06.6303|INFO|thread: 1|ProcessWrapper|Starting: Process - FileName: 'C:\Users\sunlight\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\bin\git.exe', Args: 'diff-tree --root -m -r -z --numstat f43bc1c410a6771e075bce71237aa58c0eb6e628 ', Working Directory: D:\github\CluodMall
+2016-03-07 18:25:35.2006|INFO|thread: 1|RepositoryViewModel|Refreshing all information for repo
+2016-03-07 18:25:35.2011|INFO|thread:18|AsyncReaderWriterLock|Acquiring concurrent lock for operation 8: 'LoadHeadForRepo' on resource D:\github\CluodMall\.git
+2016-03-07 18:25:35.2011|INFO|thread:14|AsyncReaderWriterLock|Acquired concurrent lock for operation 8: 'LoadHeadForRepo' on resource D:\github\CluodMall\.git
+2016-03-07 18:25:35.2336|INFO|thread:28|AsyncReaderWriterLock|Released concurrent lock for operation 8: 'LoadHeadForRepo' on resource D:\github\CluodMall\.git
+2016-03-07 18:25:35.2336|INFO|thread:15|AsyncReaderWriterLock|Acquiring concurrent lock for operation 9: 'LoadFilesInWorkingDirectory' on resource D:\github\CluodMall\.git
+2016-03-07 18:25:35.2336|INFO|thread:14|AsyncReaderWriterLock|Acquired concurrent lock for operation 9: 'LoadFilesInWorkingDirectory' on resource D:\github\CluodMall\.git
+2016-03-07 18:25:35.2336|INFO|thread: 4|GitClient|Loading commits for repo: D:\github\CluodMall
+2016-03-07 18:25:35.2336|INFO|thread:29|GitEnvironment|Process set up with this SSH Agent info: (null):(null)
+2016-03-07 18:25:35.2336|INFO|thread:29|GitEnvironment|PATH is C:\Users\sunlight\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\cmd;C:\Users\sunlight\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\bin;C:\Users\sunlight\AppData\Local\Apps\2.0\0J1JXG5C.OOE\XXYLP1LO.K8D\gith..tion_317444273a93ac29_0002.000b_d12b9599b2fb59e5;C:\Users\sunlight\AppData\Local\GitHub\hawser-amd64_0.4.0;C:\Program Files (x86)\MSBuild\12.0\bin;C:\WINDOWS\System32
+2016-03-07 18:25:35.2336|INFO|thread:29|ProcessWrapper|Starting: Process - FileName: 'C:\Users\sunlight\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\bin\git.exe', Args: 'status --untracked-files=all --porcelain -z ', Working Directory: D:\github\CluodMall\
+2016-03-07 18:25:35.2336|INFO|thread: 4|RepositoryConnection|Loaded '2' commits for repo: D:\github\CluodMall\.
+2016-03-07 18:25:35.2721|INFO|thread: 4|GitClient|Loading commits for repo: D:\github\CluodMall
+2016-03-07 18:25:35.2721|INFO|thread: 4|RepositoryConnection|Loaded '2' commits for repo: D:\github\CluodMall\.
+2016-03-07 18:25:35.3216|INFO|thread: 4|AsyncReaderWriterLock|Released concurrent lock for operation 9: 'LoadFilesInWorkingDirectory' on resource D:\github\CluodMall\.git
+2016-03-07 18:25:35.3276|INFO|thread: 1|SyncButtonViewModel|Refresh ahead/behind counts skipped because branch isn't published: refs/heads/master
+2016-03-07 18:25:40.9276|INFO|thread: 1|RepositoryViewModel|Refreshing all information for repo
+2016-03-07 18:25:40.9276|INFO|thread:14|AsyncReaderWriterLock|Acquiring concurrent lock for operation 10: 'LoadHeadForRepo' on resource D:\github\CluodMall\.git
+2016-03-07 18:25:40.9276|INFO|thread:14|AsyncReaderWriterLock|Acquired concurrent lock for operation 10: 'LoadHeadForRepo' on resource D:\github\CluodMall\.git
+2016-03-07 18:25:41.0857|INFO|thread:28|AsyncReaderWriterLock|Released concurrent lock for operation 10: 'LoadHeadForRepo' on resource D:\github\CluodMall\.git
+2016-03-07 18:25:41.0857|INFO|thread:15|AsyncReaderWriterLock|Acquiring concurrent lock for operation 11: 'LoadFilesInWorkingDirectory' on resource D:\github\CluodMall\.git
+2016-03-07 18:25:41.0857|INFO|thread: 4|AsyncReaderWriterLock|Acquired concurrent lock for operation 11: 'LoadFilesInWorkingDirectory' on resource D:\github\CluodMall\.git
+2016-03-07 18:25:41.1032|INFO|thread:14|GitClient|Loading commits for repo: D:\github\CluodMall
+2016-03-07 18:25:41.1032|INFO|thread:29|GitEnvironment|Process set up with this SSH Agent info: (null):(null)
+2016-03-07 18:25:41.1032|INFO|thread:29|GitEnvironment|PATH is C:\Users\sunlight\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\cmd;C:\Users\sunlight\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\bin;C:\Users\sunlight\AppData\Local\Apps\2.0\0J1JXG5C.OOE\XXYLP1LO.K8D\gith..tion_317444273a93ac29_0002.000b_d12b9599b2fb59e5;C:\Users\sunlight\AppData\Local\GitHub\hawser-amd64_0.4.0;C:\Program Files (x86)\MSBuild\12.0\bin;C:\WINDOWS\System32
+2016-03-07 18:25:41.1032|INFO|thread:29|ProcessWrapper|Starting: Process - FileName: 'C:\Users\sunlight\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\bin\git.exe', Args: 'status --untracked-files=all --porcelain -z ', Working Directory: D:\github\CluodMall\
+2016-03-07 18:25:41.1077|INFO|thread:14|RepositoryConnection|Loaded '2' commits for repo: D:\github\CluodMall\.
+2016-03-07 18:25:41.1252|INFO|thread:14|GitClient|Loading commits for repo: D:\github\CluodMall
+2016-03-07 18:25:41.1252|INFO|thread:14|RepositoryConnection|Loaded '2' commits for repo: D:\github\CluodMall\.
+2016-03-07 18:25:41.1882|INFO|thread:20|AsyncReaderWriterLock|Released concurrent lock for operation 11: 'LoadFilesInWorkingDirectory' on resource D:\github\CluodMall\.git
+2016-03-07 18:25:41.1882|INFO|thread: 1|SyncButtonViewModel|Refresh ahead/behind counts skipped because branch isn't published: refs/heads/master
+2016-03-07 18:25:55.1351|INFO|thread: 1|RepositoryViewModel|Refreshing all information for repo
+2016-03-07 18:25:55.1351|INFO|thread:12|AsyncReaderWriterLock|Acquiring concurrent lock for operation 12: 'LoadHeadForRepo' on resource D:\github\CluodMall\.git
+2016-03-07 18:25:55.1351|INFO|thread:12|AsyncReaderWriterLock|Acquired concurrent lock for operation 12: 'LoadHeadForRepo' on resource D:\github\CluodMall\.git
+2016-03-07 18:25:55.2151|INFO|thread:25|AsyncReaderWriterLock|Released concurrent lock for operation 12: 'LoadHeadForRepo' on resource D:\github\CluodMall\.git
+2016-03-07 18:25:55.2596|INFO|thread:14|AsyncReaderWriterLock|Acquiring concurrent lock for operation 13: 'LoadFilesInWorkingDirectory' on resource D:\github\CluodMall\.git
+2016-03-07 18:25:55.2596|INFO|thread:15|AsyncReaderWriterLock|Acquired concurrent lock for operation 13: 'LoadFilesInWorkingDirectory' on resource D:\github\CluodMall\.git
+2016-03-07 18:25:55.2666|INFO|thread:20|GitClient|Loading commits for repo: D:\github\CluodMall
+2016-03-07 18:25:55.2666|INFO|thread:30|GitEnvironment|Process set up with this SSH Agent info: (null):(null)
+2016-03-07 18:25:55.2666|INFO|thread:30|GitEnvironment|PATH is C:\Users\sunlight\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\cmd;C:\Users\sunlight\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\bin;C:\Users\sunlight\AppData\Local\Apps\2.0\0J1JXG5C.OOE\XXYLP1LO.K8D\gith..tion_317444273a93ac29_0002.000b_d12b9599b2fb59e5;C:\Users\sunlight\AppData\Local\GitHub\hawser-amd64_0.4.0;C:\Program Files (x86)\MSBuild\12.0\bin;C:\WINDOWS\System32
+2016-03-07 18:25:55.2666|INFO|thread:30|ProcessWrapper|Starting: Process - FileName: 'C:\Users\sunlight\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\bin\git.exe', Args: 'status --untracked-files=all --porcelain -z ', Working Directory: D:\github\CluodMall\
+2016-03-07 18:25:55.2666|INFO|thread:20|RepositoryConnection|Loaded '2' commits for repo: D:\github\CluodMall\.
+2016-03-07 18:25:55.2891|INFO|thread:18|GitClient|Loading commits for repo: D:\github\CluodMall
+2016-03-07 18:25:55.2891|INFO|thread:18|RepositoryConnection|Loaded '2' commits for repo: D:\github\CluodMall\.
+2016-03-07 18:25:55.3447|INFO|thread:14|AsyncReaderWriterLock|Released concurrent lock for operation 13: 'LoadFilesInWorkingDirectory' on resource D:\github\CluodMall\.git
+2016-03-07 18:25:55.3447|INFO|thread: 1|SyncButtonViewModel|Refresh ahead/behind counts skipped because branch isn't published: refs/heads/master
+2016-03-07 18:26:07.4544|INFO|thread: 1|RepositoryHost|Log in from cache for login 'TACCC' to host 'https://api.github.com/' SUCCEEDED
+2016-03-07 18:26:07.4999|INFO|thread:28|ApplicationShellInitializer|Running post login tasks. ~/.gitconfig is set up with user.name = 'zhy5200' and user.email = 'machengyizhong@163.com'
+2016-03-07 18:26:07.5154|INFO|thread: 1|RepositoryHosts|Log in to GitHub.com with username '704990899@qq.com' SUCCEEDED
+2016-03-07 18:26:07.5335|INFO|thread:20|SSHProcessManager|Starting ssh-agent.exe
+2016-03-07 18:26:07.5335|INFO|thread:20|PortablePackageManager|Already extracted hawser-amd64.7z, returning 100%
+2016-03-07 18:26:08.1300|INFO|thread:35|GitEnvironment|Process set up with this SSH Agent info: 19708:/tmp/ssh-xLEdkao9PwNQ/agent.10652
+2016-03-07 18:26:08.1300|INFO|thread:35|GitEnvironment|PATH is C:\Users\sunlight\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\cmd;C:\Users\sunlight\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\bin;C:\Users\sunlight\AppData\Local\Apps\2.0\0J1JXG5C.OOE\XXYLP1LO.K8D\gith..tion_317444273a93ac29_0002.000b_d12b9599b2fb59e5;C:\Users\sunlight\AppData\Local\GitHub\hawser-amd64_0.4.0;C:\Program Files (x86)\MSBuild\12.0\bin;C:\WINDOWS\System32
+2016-03-07 18:26:08.1300|INFO|thread:35|ProcessWrapper|Starting: Process - FileName: 'C:\Users\sunlight\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\bin\ssh-add.exe', Args: '"C:\Users\sunlight\.ssh\github_rsa"', Working Directory: C:\Users\sunlight\AppData\Local\Temp\
+2016-03-07 18:26:08.3632|INFO|thread:20|SSHKeyHelper|Found existing SSH key pair
+2016-03-07 18:26:08.3992|INFO|thread:32|ApiClient|About to add SSH Key: GitHub for Windows - Lenovo-PC - ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCkWh6llgdfb30M96pA2Q6J8FOlTuzCw+Y+th+vDpuQ0jEQJVH09th3jLXgeMW2opFH5qfNpSYmv/jh5ldvlKuXzd7jMLjxncgGhuRXbOGfjcE5DqzPf79nq0ybVh86Qf/uSaGuj8bcBnmTeiECNNwhpM1FBur1faZ05iYIA6Kaw/0EEnrq82WK0b6OmBT1chAaJ4SaHX/Z/ZGVWiAaOVHMGhL0yvuHQEWgJX+7jwuOn7Kmgv4JEscs4zJLTjW5a1z1u/9DfnwOl4/Ki1MdYE6+RF/Msz5va63FxTO60lFegMIt9FrlaEKiY1Iy7vnrjv1beeVlKikcHURPCr0IwAAv sunlight@LENOVO-PC
+
+2016-03-07 18:26:09.6473|WARN|thread:30|RemoteSSHKeyChain|Failed to add SSH key due to validation error 'key is already in use'. Deleting generated SSH Key and retrying.
+2016-03-07 18:26:09.6473|INFO|thread:30|SSHKeyHelper|Couldn't find SSH key pair, generating new ones
+2016-03-07 18:26:09.6563|INFO|thread:30|GitEnvironment|Process set up with this SSH Agent info: 19708:/tmp/ssh-xLEdkao9PwNQ/agent.10652
+2016-03-07 18:26:09.6563|INFO|thread:30|GitEnvironment|PATH is C:\Users\sunlight\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\cmd;C:\Users\sunlight\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\bin;C:\Users\sunlight\AppData\Local\Apps\2.0\0J1JXG5C.OOE\XXYLP1LO.K8D\gith..tion_317444273a93ac29_0002.000b_d12b9599b2fb59e5;C:\Users\sunlight\AppData\Local\GitHub\hawser-amd64_0.4.0;C:\Program Files (x86)\MSBuild\12.0\bin;C:\WINDOWS\System32
+2016-03-07 18:26:09.6563|INFO|thread:30|ProcessWrapper|Starting: Process - FileName: 'C:\Users\sunlight\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\bin\ssh-keygen.exe', Args: '-t rsa -N "" -f "C:\Users\sunlight\.ssh\github_rsa"', Working Directory: C:\Users\sunlight\AppData\Local\Temp\
+2016-03-07 18:26:10.4675|INFO|thread:33|ApiClient|About to add SSH Key: GitHub for Windows - Lenovo-PC - ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDPT9kNWuVfWpWEQv10C0NdnpoueM3V7vmZbYFpMGQ9t5ndjhJeufQtFH7LjiOxDtFsZvQViZALFLQTkkMrCVuRZGQlFFOHn3CuxtLgkZMXKBWIkrr/1Qwchir6ELN5om+zcl6tNHJo/mj8DrZEVuIT8banR2wLGhGRcc8r7F+R9U5mq5igAliptXkqTknlK8l8b99+nPRC/nUYjPGfhvcgGrqR6u/OnpmW7JJff6EpmU3n8esDUp/VdtiavZiQ5XJvRIIovppIw761W4BK5LXUzF2/2SRsIaJkILPFWfq+qioolmI0MDDFZB8KT4N7QA45xPl3PSQWsPJDai7CUSHp sunlight@LENOVO-PC
+
+2016-03-07 18:26:20.8914|INFO|thread: 1|PublishToHostViewModel|Creating on https://api.github.com/ in account 'TACCC'
+2016-03-07 18:26:22.3872|INFO|thread:33|AsyncReaderWriterLock|Acquiring concurrent lock for operation 14: 'GetRecentBranchNames' on resource D:\github\CluodMall\.git
+2016-03-07 18:26:22.3872|INFO|thread:33|AsyncReaderWriterLock|Acquired concurrent lock for operation 14: 'GetRecentBranchNames' on resource D:\github\CluodMall\.git
+2016-03-07 18:26:22.3902|INFO|thread:20|AsyncReaderWriterLock|Acquiring concurrent lock for operation 15: 'PushBranchToRemote' on resource D:\github\CluodMall\.git
+2016-03-07 18:26:22.3902|INFO|thread:20|AsyncReaderWriterLock|Acquired concurrent lock for operation 15: 'PushBranchToRemote' on resource D:\github\CluodMall\.git
+2016-03-07 18:26:22.3902|INFO|thread:22|GitClient|Pushing TACCC/CluodMall
+2016-03-07 18:26:22.4122|INFO|thread:23|GitEnvironment|Process set up with this SSH Agent info: 19708:/tmp/ssh-xLEdkao9PwNQ/agent.10652
+2016-03-07 18:26:22.4122|INFO|thread:23|GitEnvironment|PATH is C:\Users\sunlight\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\cmd;C:\Users\sunlight\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\bin;C:\Users\sunlight\AppData\Local\Apps\2.0\0J1JXG5C.OOE\XXYLP1LO.K8D\gith..tion_317444273a93ac29_0002.000b_d12b9599b2fb59e5;C:\Users\sunlight\AppData\Local\GitHub\hawser-amd64_0.4.0;C:\Program Files (x86)\MSBuild\12.0\bin;C:\WINDOWS\System32
+2016-03-07 18:26:22.4122|INFO|thread:23|ProcessWrapper|Starting: Process - FileName: 'C:\Users\sunlight\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\bin\git.exe', Args: 'log -g --abbrev-commit --pretty=oneline HEAD -n 2500 ', Working Directory: D:\github\CluodMall\
+2016-03-07 18:26:22.4122|INFO|thread:22|GitEnvironment|Process set up with this SSH Agent info: 19708:/tmp/ssh-xLEdkao9PwNQ/agent.10652
+2016-03-07 18:26:22.4122|INFO|thread:22|GitEnvironment|PATH is C:\Users\sunlight\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\cmd;C:\Users\sunlight\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\bin;C:\Users\sunlight\AppData\Local\Apps\2.0\0J1JXG5C.OOE\XXYLP1LO.K8D\gith..tion_317444273a93ac29_0002.000b_d12b9599b2fb59e5;C:\Users\sunlight\AppData\Local\GitHub\hawser-amd64_0.4.0;C:\Program Files (x86)\MSBuild\12.0\bin;C:\WINDOWS\System32
+2016-03-07 18:26:22.4122|INFO|thread:22|ProcessWrapper|Starting: Process - FileName: 'C:\Users\sunlight\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\bin\git.exe', Args: 'push -u origin master ', Working Directory: D:\github\CluodMall\
+2016-03-07 18:26:22.5012|INFO|thread:15|AsyncReaderWriterLock|Released concurrent lock for operation 14: 'GetRecentBranchNames' on resource D:\github\CluodMall\.git
+2016-03-07 18:26:23.2664|INFO|thread:30|AsyncReaderWriterLock|Acquiring concurrent lock for operation 16: 'MergeStatus' on resource D:\github\CluodMall\.git
+2016-03-07 18:26:23.2664|INFO|thread:30|AsyncReaderWriterLock|Acquired concurrent lock for operation 16: 'MergeStatus' on resource D:\github\CluodMall\.git
+2016-03-07 18:26:23.2934|INFO|thread:22|AsyncReaderWriterLock|Released concurrent lock for operation 16: 'MergeStatus' on resource D:\github\CluodMall\.git
+2016-03-07 18:26:23.3064|INFO|thread:30|AsyncReaderWriterLock|Acquiring concurrent lock for operation 17: 'GetBranch' on resource D:\github\CluodMall\.git
+2016-03-07 18:26:23.3064|INFO|thread:30|AsyncReaderWriterLock|Acquired concurrent lock for operation 17: 'GetBranch' on resource D:\github\CluodMall\.git
+2016-03-07 18:26:23.3629|INFO|thread:23|AsyncReaderWriterLock|Released concurrent lock for operation 17: 'GetBranch' on resource D:\github\CluodMall\.git
+2016-03-07 18:26:24.2656|INFO|thread: 4|AsyncReaderWriterLock|Acquiring concurrent lock for operation 18: 'GetUniqueCommits' on resource D:\github\CluodMall\.git
+2016-03-07 18:26:24.2656|INFO|thread: 4|AsyncReaderWriterLock|Acquired concurrent lock for operation 18: 'GetUniqueCommits' on resource D:\github\CluodMall\.git
+2016-03-07 18:26:24.2656|INFO|thread:23|AsyncReaderWriterLock|Released concurrent lock for operation 18: 'GetUniqueCommits' on resource D:\github\CluodMall\.git
+2016-03-07 18:26:35.7574|INFO|thread:15|AsyncReaderWriterLock|Released concurrent lock for operation 15: 'PushBranchToRemote' on resource D:\github\CluodMall\.git
+2016-03-07 18:26:35.7644|INFO|thread:29|AsyncReaderWriterLock|Acquiring concurrent lock for operation 19: 'PushBranchToRemote' on resource D:\github\CluodMall\.git
+2016-03-07 18:26:35.7644|INFO|thread:33|AsyncReaderWriterLock|Acquired concurrent lock for operation 19: 'PushBranchToRemote' on resource D:\github\CluodMall\.git
+2016-03-07 18:26:35.7644|INFO|thread:23|GitClient|Pushing TACCC/CluodMall
+2016-03-07 18:26:35.7814|INFO|thread:23|GitEnvironment|Process set up with this SSH Agent info: 19708:/tmp/ssh-xLEdkao9PwNQ/agent.10652
+2016-03-07 18:26:35.7814|INFO|thread:23|GitEnvironment|PATH is C:\Users\sunlight\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\cmd;C:\Users\sunlight\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\bin;C:\Users\sunlight\AppData\Local\Apps\2.0\0J1JXG5C.OOE\XXYLP1LO.K8D\gith..tion_317444273a93ac29_0002.000b_d12b9599b2fb59e5;C:\Users\sunlight\AppData\Local\GitHub\hawser-amd64_0.4.0;C:\Program Files (x86)\MSBuild\12.0\bin;C:\WINDOWS\System32
+2016-03-07 18:26:35.7814|INFO|thread:23|ProcessWrapper|Starting: Process - FileName: 'C:\Users\sunlight\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\bin\git.exe', Args: 'push -u origin master ', Working Directory: D:\github\CluodMall\
+2016-03-07 18:26:44.2032|INFO|thread:12|AsyncReaderWriterLock|Released concurrent lock for operation 19: 'PushBranchToRemote' on resource D:\github\CluodMall\.git
+2016-03-07 18:26:44.2212|INFO|thread:12|AsyncReaderWriterLock|Acquiring concurrent lock for operation 20: 'LoadHeadForRepo' on resource D:\github\CluodMall\.git
+2016-03-07 18:26:44.2212|INFO|thread:32|AsyncReaderWriterLock|Acquired concurrent lock for operation 20: 'LoadHeadForRepo' on resource D:\github\CluodMall\.git
+2016-03-07 18:26:44.2532|INFO|thread:23|AsyncReaderWriterLock|Released concurrent lock for operation 20: 'LoadHeadForRepo' on resource D:\github\CluodMall\.git
+2016-03-07 18:26:44.2532|INFO|thread: 4|AsyncReaderWriterLock|Acquiring concurrent lock for operation 21: 'LoadFilesInWorkingDirectory' on resource D:\github\CluodMall\.git
+2016-03-07 18:26:44.2532|INFO|thread: 4|AsyncReaderWriterLock|Acquired concurrent lock for operation 21: 'LoadFilesInWorkingDirectory' on resource D:\github\CluodMall\.git
+2016-03-07 18:26:44.2652|INFO|thread:29|GitClient|Loading commits for repo: D:\github\CluodMall
+2016-03-07 18:26:44.2652|INFO|thread:29|RepositoryConnection|Loaded '0' commits for repo: D:\github\CluodMall\.
+2016-03-07 18:26:44.2652|INFO|thread:17|GitEnvironment|Process set up with this SSH Agent info: 19708:/tmp/ssh-xLEdkao9PwNQ/agent.10652
+2016-03-07 18:26:44.2652|INFO|thread:17|GitEnvironment|PATH is C:\Users\sunlight\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\cmd;C:\Users\sunlight\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\bin;C:\Users\sunlight\AppData\Local\Apps\2.0\0J1JXG5C.OOE\XXYLP1LO.K8D\gith..tion_317444273a93ac29_0002.000b_d12b9599b2fb59e5;C:\Users\sunlight\AppData\Local\GitHub\hawser-amd64_0.4.0;C:\Program Files (x86)\MSBuild\12.0\bin;C:\WINDOWS\System32
+2016-03-07 18:26:44.2652|INFO|thread:17|ProcessWrapper|Starting: Process - FileName: 'C:\Users\sunlight\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\bin\git.exe', Args: 'status --untracked-files=all --porcelain -z ', Working Directory: D:\github\CluodMall\
+2016-03-07 18:26:44.2882|INFO|thread:12|GitClient|Loading commits for repo: D:\github\CluodMall
+2016-03-07 18:26:44.2982|INFO|thread:12|RepositoryConnection|Loaded '2' commits for repo: D:\github\CluodMall\.
+2016-03-07 18:26:44.3733|INFO|thread:22|GitClient|Loading commits for repo: D:\github\CluodMall
+2016-03-07 18:26:44.3733|INFO|thread:22|RepositoryConnection|Loaded '2' commits for repo: D:\github\CluodMall\.
+2016-03-07 18:26:44.3963|INFO|thread:20|AsyncReaderWriterLock|Released concurrent lock for operation 21: 'LoadFilesInWorkingDirectory' on resource D:\github\CluodMall\.git
+2016-03-07 18:26:44.3963|INFO|thread: 1|SyncButtonViewModel|Getting ahead/behind counts but skipping the fetch.
+2016-03-07 18:26:44.4192|INFO|thread:14|RepositoryConnection|Detecting ahead/behind info for branch: master.
+2016-03-07 18:26:44.4242|INFO|thread:14|RepositoryConnection|branch stats: ahead 0, behind 0
+2016-03-07 18:26:44.4242|INFO|thread:33|GitClient|Loading commits for repo: D:\github\CluodMall
+2016-03-07 18:26:44.4382|INFO|thread:33|RepositoryConnection|Loaded '0' commits for repo: D:\github\CluodMall\.
+2016-03-07 18:26:44.4382|INFO|thread:29|GitClient|Loading commits for repo: D:\github\CluodMall
+2016-03-07 18:26:44.4382|INFO|thread:29|RepositoryConnection|Loaded '2' commits for repo: D:\github\CluodMall\.
+2016-03-07 18:26:44.4707|INFO|thread: 1|GitEnvironment|Process set up with this SSH Agent info: 19708:/tmp/ssh-xLEdkao9PwNQ/agent.10652
+2016-03-07 18:26:44.4707|INFO|thread: 1|GitEnvironment|PATH is C:\Users\sunlight\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\cmd;C:\Users\sunlight\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\bin;C:\Users\sunlight\AppData\Local\Apps\2.0\0J1JXG5C.OOE\XXYLP1LO.K8D\gith..tion_317444273a93ac29_0002.000b_d12b9599b2fb59e5;C:\Users\sunlight\AppData\Local\GitHub\hawser-amd64_0.4.0;C:\Program Files (x86)\MSBuild\12.0\bin;C:\WINDOWS\System32
+2016-03-07 18:26:44.4707|INFO|thread: 1|ProcessWrapper|Starting: Process - FileName: 'C:\Users\sunlight\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\bin\git.exe', Args: 'diff-tree --root -m -r -z --name-status 21cf106dc29a6627f2e05d2fc8bef944a3a8c971 ', Working Directory: D:\github\CluodMall
+2016-03-07 18:26:44.4897|INFO|thread: 1|GitEnvironment|Process set up with this SSH Agent info: 19708:/tmp/ssh-xLEdkao9PwNQ/agent.10652
+2016-03-07 18:26:44.4897|INFO|thread: 1|GitEnvironment|PATH is C:\Users\sunlight\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\cmd;C:\Users\sunlight\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\bin;C:\Users\sunlight\AppData\Local\Apps\2.0\0J1JXG5C.OOE\XXYLP1LO.K8D\gith..tion_317444273a93ac29_0002.000b_d12b9599b2fb59e5;C:\Users\sunlight\AppData\Local\GitHub\hawser-amd64_0.4.0;C:\Program Files (x86)\MSBuild\12.0\bin;C:\WINDOWS\System32
+2016-03-07 18:26:44.4897|INFO|thread: 1|ProcessWrapper|Starting: Process - FileName: 'C:\Users\sunlight\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\bin\git.exe', Args: 'diff-tree --root -m -r -z --numstat 21cf106dc29a6627f2e05d2fc8bef944a3a8c971 ', Working Directory: D:\github\CluodMall
+2016-03-07 18:26:54.5138|INFO|thread: 1|RepositoryViewModel|Refreshing all information for repo
+2016-03-07 18:26:54.5138|INFO|thread:14|AsyncReaderWriterLock|Acquiring concurrent lock for operation 22: 'LoadHeadForRepo' on resource D:\github\CluodMall\.git
+2016-03-07 18:26:54.5138|INFO|thread:14|AsyncReaderWriterLock|Acquired concurrent lock for operation 22: 'LoadHeadForRepo' on resource D:\github\CluodMall\.git
+2016-03-07 18:26:54.5388|INFO|thread: 5|AsyncReaderWriterLock|Released concurrent lock for operation 22: 'LoadHeadForRepo' on resource D:\github\CluodMall\.git
+2016-03-07 18:26:54.5388|INFO|thread:20|AsyncReaderWriterLock|Acquiring concurrent lock for operation 23: 'LoadFilesInWorkingDirectory' on resource D:\github\CluodMall\.git
+2016-03-07 18:26:54.5388|INFO|thread: 4|AsyncReaderWriterLock|Acquired concurrent lock for operation 23: 'LoadFilesInWorkingDirectory' on resource D:\github\CluodMall\.git
+2016-03-07 18:26:54.5488|INFO|thread:32|GitClient|Loading commits for repo: D:\github\CluodMall
+2016-03-07 18:26:54.5488|INFO|thread:32|RepositoryConnection|Loaded '0' commits for repo: D:\github\CluodMall\.
+2016-03-07 18:26:54.5488|INFO|thread:28|GitEnvironment|Process set up with this SSH Agent info: 19708:/tmp/ssh-xLEdkao9PwNQ/agent.10652
+2016-03-07 18:26:54.5488|INFO|thread:28|GitEnvironment|PATH is C:\Users\sunlight\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\cmd;C:\Users\sunlight\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\bin;C:\Users\sunlight\AppData\Local\Apps\2.0\0J1JXG5C.OOE\XXYLP1LO.K8D\gith..tion_317444273a93ac29_0002.000b_d12b9599b2fb59e5;C:\Users\sunlight\AppData\Local\GitHub\hawser-amd64_0.4.0;C:\Program Files (x86)\MSBuild\12.0\bin;C:\WINDOWS\System32
+2016-03-07 18:26:54.5488|INFO|thread:28|ProcessWrapper|Starting: Process - FileName: 'C:\Users\sunlight\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\bin\git.exe', Args: 'status --untracked-files=all --porcelain -z ', Working Directory: D:\github\CluodMall\
+2016-03-07 18:26:54.5658|INFO|thread:33|GitClient|Loading commits for repo: D:\github\CluodMall
+2016-03-07 18:26:54.5658|INFO|thread:33|RepositoryConnection|Loaded '2' commits for repo: D:\github\CluodMall\.
+2016-03-07 18:26:54.6139|INFO|thread:15|AsyncReaderWriterLock|Released concurrent lock for operation 23: 'LoadFilesInWorkingDirectory' on resource D:\github\CluodMall\.git
+2016-03-07 18:26:54.6259|INFO|thread: 1|SyncButtonViewModel|Getting ahead/behind counts but skipping the fetch.
+2016-03-07 18:26:54.6259|INFO|thread:17|RepositoryConnection|Detecting ahead/behind info for branch: master.
+2016-03-07 18:26:54.6259|INFO|thread:17|RepositoryConnection|branch stats: ahead 0, behind 0
+2016-03-07 18:27:00.2685|INFO|thread: 1|RepositoryViewModel|Refreshing all information for repo
+2016-03-07 18:27:00.2685|INFO|thread:17|AsyncReaderWriterLock|Acquiring concurrent lock for operation 24: 'LoadHeadForRepo' on resource D:\github\CluodMall\.git
+2016-03-07 18:27:00.2685|INFO|thread:17|AsyncReaderWriterLock|Acquired concurrent lock for operation 24: 'LoadHeadForRepo' on resource D:\github\CluodMall\.git
+2016-03-07 18:27:00.3025|INFO|thread:21|AsyncReaderWriterLock|Released concurrent lock for operation 24: 'LoadHeadForRepo' on resource D:\github\CluodMall\.git
+2016-03-07 18:27:00.3025|INFO|thread:23|AsyncReaderWriterLock|Acquiring concurrent lock for operation 25: 'LoadFilesInWorkingDirectory' on resource D:\github\CluodMall\.git
+2016-03-07 18:27:00.3025|INFO|thread:22|AsyncReaderWriterLock|Acquired concurrent lock for operation 25: 'LoadFilesInWorkingDirectory' on resource D:\github\CluodMall\.git
+2016-03-07 18:27:00.3120|INFO|thread:23|GitClient|Loading commits for repo: D:\github\CluodMall
+2016-03-07 18:27:00.3120|INFO|thread:23|RepositoryConnection|Loaded '0' commits for repo: D:\github\CluodMall\.
+2016-03-07 18:27:00.3120|INFO|thread: 5|GitEnvironment|Process set up with this SSH Agent info: 19708:/tmp/ssh-xLEdkao9PwNQ/agent.10652
+2016-03-07 18:27:00.3120|INFO|thread: 5|GitEnvironment|PATH is C:\Users\sunlight\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\cmd;C:\Users\sunlight\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\bin;C:\Users\sunlight\AppData\Local\Apps\2.0\0J1JXG5C.OOE\XXYLP1LO.K8D\gith..tion_317444273a93ac29_0002.000b_d12b9599b2fb59e5;C:\Users\sunlight\AppData\Local\GitHub\hawser-amd64_0.4.0;C:\Program Files (x86)\MSBuild\12.0\bin;C:\WINDOWS\System32
+2016-03-07 18:27:00.3120|INFO|thread: 5|ProcessWrapper|Starting: Process - FileName: 'C:\Users\sunlight\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\bin\git.exe', Args: 'status --untracked-files=all --porcelain -z ', Working Directory: D:\github\CluodMall\
+2016-03-07 18:27:00.3265|INFO|thread: 4|GitClient|Loading commits for repo: D:\github\CluodMall
+2016-03-07 18:27:00.3265|INFO|thread: 4|RepositoryConnection|Loaded '2' commits for repo: D:\github\CluodMall\.
+2016-03-07 18:27:00.3860|INFO|thread:20|AsyncReaderWriterLock|Released concurrent lock for operation 25: 'LoadFilesInWorkingDirectory' on resource D:\github\CluodMall\.git
+2016-03-07 18:27:00.3885|INFO|thread: 1|SyncButtonViewModel|Getting ahead/behind counts but skipping the fetch.
+2016-03-07 18:27:00.3885|INFO|thread:14|RepositoryConnection|Detecting ahead/behind info for branch: master.
+2016-03-07 18:27:00.3885|INFO|thread:14|RepositoryConnection|branch stats: ahead 0, behind 0
+2016-03-07 18:27:27.8215|INFO|thread: 1|RepositoryViewModel|Refreshing all information for repo
+2016-03-07 18:27:27.9316|INFO|thread: 5|AsyncReaderWriterLock|Acquiring concurrent lock for operation 26: 'LoadHeadForRepo' on resource D:\github\CluodMall\.git
+2016-03-07 18:27:27.9471|INFO|thread: 5|AsyncReaderWriterLock|Acquired concurrent lock for operation 26: 'LoadHeadForRepo' on resource D:\github\CluodMall\.git
+2016-03-07 18:27:28.0026|INFO|thread:38|AsyncReaderWriterLock|Released concurrent lock for operation 26: 'LoadHeadForRepo' on resource D:\github\CluodMall\.git
+2016-03-07 18:27:28.0026|INFO|thread:35|AsyncReaderWriterLock|Acquiring concurrent lock for operation 27: 'LoadFilesInWorkingDirectory' on resource D:\github\CluodMall\.git
+2016-03-07 18:27:28.0026|INFO|thread:35|AsyncReaderWriterLock|Acquired concurrent lock for operation 27: 'LoadFilesInWorkingDirectory' on resource D:\github\CluodMall\.git
+2016-03-07 18:27:28.0251|INFO|thread:36|GitClient|Loading commits for repo: D:\github\CluodMall
+2016-03-07 18:27:28.0301|INFO|thread:36|RepositoryConnection|Loaded '0' commits for repo: D:\github\CluodMall\.
+2016-03-07 18:27:28.0482|INFO|thread:39|GitEnvironment|Process set up with this SSH Agent info: 19708:/tmp/ssh-xLEdkao9PwNQ/agent.10652
+2016-03-07 18:27:28.0482|INFO|thread:39|GitEnvironment|PATH is C:\Users\sunlight\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\cmd;C:\Users\sunlight\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\bin;C:\Users\sunlight\AppData\Local\Apps\2.0\0J1JXG5C.OOE\XXYLP1LO.K8D\gith..tion_317444273a93ac29_0002.000b_d12b9599b2fb59e5;C:\Users\sunlight\AppData\Local\GitHub\hawser-amd64_0.4.0;C:\Program Files (x86)\MSBuild\12.0\bin;C:\WINDOWS\System32
+2016-03-07 18:27:28.0482|INFO|thread:39|ProcessWrapper|Starting: Process - FileName: 'C:\Users\sunlight\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\bin\git.exe', Args: 'status --untracked-files=all --porcelain -z ', Working Directory: D:\github\CluodMall\
+2016-03-07 18:27:28.0482|INFO|thread:37|GitClient|Loading commits for repo: D:\github\CluodMall
+2016-03-07 18:27:28.0482|INFO|thread:37|RepositoryConnection|Loaded '2' commits for repo: D:\github\CluodMall\.
+2016-03-07 18:27:28.3504|INFO|thread:37|AsyncReaderWriterLock|Released concurrent lock for operation 27: 'LoadFilesInWorkingDirectory' on resource D:\github\CluodMall\.git
+2016-03-07 18:27:28.3504|INFO|thread: 1|SyncButtonViewModel|Getting ahead/behind counts but skipping the fetch.
+2016-03-07 18:27:28.3625|INFO|thread: 5|RepositoryConnection|Detecting ahead/behind info for branch: master.
+2016-03-07 18:27:28.3625|INFO|thread: 5|RepositoryConnection|branch stats: ahead 0, behind 0
+2016-03-07 18:27:31.3265|INFO|thread: 1|RepositoryHost|Log in from cache for login 'TACCC' to host 'https://api.github.com/' SUCCEEDED
+2016-03-07 18:27:31.3795|INFO|thread: 1|SyncButtonViewModel|Starting sync for D:\github\CluodMall - master
+2016-03-07 18:27:31.3795|INFO|thread: 5|AsyncReaderWriterLock|Acquiring exclusive lock for operation 28: 'SyncBranch' on resource D:\github\CluodMall\.git
+2016-03-07 18:27:31.3795|INFO|thread:37|AsyncReaderWriterLock|Acquired exclusive lock for operation 28: 'SyncBranch' on resource D:\github\CluodMall\.git
+2016-03-07 18:27:31.4096|INFO|thread:19|GitEnvironment|Process set up with this SSH Agent info: 19708:/tmp/ssh-xLEdkao9PwNQ/agent.10652
+2016-03-07 18:27:31.4096|INFO|thread:19|GitEnvironment|PATH is C:\Users\sunlight\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\cmd;C:\Users\sunlight\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\bin;C:\Users\sunlight\AppData\Local\Apps\2.0\0J1JXG5C.OOE\XXYLP1LO.K8D\gith..tion_317444273a93ac29_0002.000b_d12b9599b2fb59e5;C:\Users\sunlight\AppData\Local\GitHub\hawser-amd64_0.4.0;C:\Program Files (x86)\MSBuild\12.0\bin;C:\WINDOWS\System32
+2016-03-07 18:27:31.4096|INFO|thread:19|ProcessWrapper|Starting: Process - FileName: 'C:\Users\sunlight\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\bin\git.exe', Args: 'pull --progress --rebase --prune origin master ', Working Directory: D:\github\CluodMall\
+2016-03-07 18:27:42.2853|INFO|thread:36|AsyncReaderWriterLock|Released exclusive lock for operation 28: 'SyncBranch' on resource D:\github\CluodMall\.git
+2016-03-07 18:27:42.2853|INFO|thread: 1|SyncButtonViewModel|Completing sync for D:\github\CluodMall - master
+2016-03-07 18:27:42.2853|INFO|thread:19|AsyncReaderWriterLock|Acquiring concurrent lock for operation 29: 'LoadHeadForRepo' on resource D:\github\CluodMall\.git
+2016-03-07 18:27:42.2853|INFO|thread:37|AsyncReaderWriterLock|Acquired concurrent lock for operation 29: 'LoadHeadForRepo' on resource D:\github\CluodMall\.git
+2016-03-07 18:27:42.3053|INFO|thread:17|AsyncReaderWriterLock|Released concurrent lock for operation 29: 'LoadHeadForRepo' on resource D:\github\CluodMall\.git
+2016-03-07 18:27:42.3053|INFO|thread:19|AsyncReaderWriterLock|Acquiring concurrent lock for operation 30: 'LoadFilesInWorkingDirectory' on resource D:\github\CluodMall\.git
+2016-03-07 18:27:42.3053|INFO|thread:35|AsyncReaderWriterLock|Acquired concurrent lock for operation 30: 'LoadFilesInWorkingDirectory' on resource D:\github\CluodMall\.git
+2016-03-07 18:27:42.3158|INFO|thread:23|GitClient|Loading commits for repo: D:\github\CluodMall
+2016-03-07 18:27:42.3158|INFO|thread:23|RepositoryConnection|Loaded '0' commits for repo: D:\github\CluodMall\.
+2016-03-07 18:27:42.3268|INFO|thread:22|GitEnvironment|Process set up with this SSH Agent info: 19708:/tmp/ssh-xLEdkao9PwNQ/agent.10652
+2016-03-07 18:27:42.3268|INFO|thread:22|GitEnvironment|PATH is C:\Users\sunlight\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\cmd;C:\Users\sunlight\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\bin;C:\Users\sunlight\AppData\Local\Apps\2.0\0J1JXG5C.OOE\XXYLP1LO.K8D\gith..tion_317444273a93ac29_0002.000b_d12b9599b2fb59e5;C:\Users\sunlight\AppData\Local\GitHub\hawser-amd64_0.4.0;C:\Program Files (x86)\MSBuild\12.0\bin;C:\WINDOWS\System32
+2016-03-07 18:27:42.3268|INFO|thread:22|ProcessWrapper|Starting: Process - FileName: 'C:\Users\sunlight\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\bin\git.exe', Args: 'status --untracked-files=all --porcelain -z ', Working Directory: D:\github\CluodMall\
+2016-03-07 18:27:42.3268|INFO|thread:28|GitClient|Loading commits for repo: D:\github\CluodMall
+2016-03-07 18:27:42.3268|INFO|thread:28|RepositoryConnection|Loaded '2' commits for repo: D:\github\CluodMall\.
+2016-03-07 18:27:42.3843|INFO|thread:36|AsyncReaderWriterLock|Released concurrent lock for operation 30: 'LoadFilesInWorkingDirectory' on resource D:\github\CluodMall\.git
+2016-03-07 18:27:42.3843|INFO|thread: 1|SyncButtonViewModel|Getting ahead/behind counts but skipping the fetch.
+2016-03-07 18:27:42.3934|INFO|thread:17|RepositoryConnection|Detecting ahead/behind info for branch: master.
+2016-03-07 18:27:42.3934|INFO|thread:17|RepositoryConnection|branch stats: ahead 0, behind 0
+2016-03-07 18:28:14.6156|INFO|thread: 1|RepositoryViewModel|Refreshing all information for repo
+2016-03-07 18:28:14.6156|INFO|thread:34|AsyncReaderWriterLock|Acquiring concurrent lock for operation 31: 'LoadHeadForRepo' on resource D:\github\CluodMall\.git
+2016-03-07 18:28:14.6156|INFO|thread:33|AsyncReaderWriterLock|Acquired concurrent lock for operation 31: 'LoadHeadForRepo' on resource D:\github\CluodMall\.git
+2016-03-07 18:28:14.6669|INFO|thread:31|AsyncReaderWriterLock|Released concurrent lock for operation 31: 'LoadHeadForRepo' on resource D:\github\CluodMall\.git
+2016-03-07 18:28:14.6669|INFO|thread:34|AsyncReaderWriterLock|Acquiring concurrent lock for operation 32: 'LoadFilesInWorkingDirectory' on resource D:\github\CluodMall\.git
+2016-03-07 18:28:14.6669|INFO|thread:33|AsyncReaderWriterLock|Acquired concurrent lock for operation 32: 'LoadFilesInWorkingDirectory' on resource D:\github\CluodMall\.git
+2016-03-07 18:28:14.6830|INFO|thread:29|GitClient|Loading commits for repo: D:\github\CluodMall
+2016-03-07 18:28:14.6885|INFO|thread:29|RepositoryConnection|Loaded '0' commits for repo: D:\github\CluodMall\.
+2016-03-07 18:28:14.6885|INFO|thread:17|GitEnvironment|Process set up with this SSH Agent info: 19708:/tmp/ssh-xLEdkao9PwNQ/agent.10652
+2016-03-07 18:28:14.6885|INFO|thread:17|GitEnvironment|PATH is C:\Users\sunlight\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\cmd;C:\Users\sunlight\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\bin;C:\Users\sunlight\AppData\Local\Apps\2.0\0J1JXG5C.OOE\XXYLP1LO.K8D\gith..tion_317444273a93ac29_0002.000b_d12b9599b2fb59e5;C:\Users\sunlight\AppData\Local\GitHub\hawser-amd64_0.4.0;C:\Program Files (x86)\MSBuild\12.0\bin;C:\WINDOWS\System32
+2016-03-07 18:28:14.6885|INFO|thread:17|ProcessWrapper|Starting: Process - FileName: 'C:\Users\sunlight\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\bin\git.exe', Args: 'status --untracked-files=all --porcelain -z ', Working Directory: D:\github\CluodMall\
+2016-03-07 18:28:14.7055|INFO|thread:29|GitClient|Loading commits for repo: D:\github\CluodMall
+2016-03-07 18:28:14.7055|INFO|thread:29|RepositoryConnection|Loaded '2' commits for repo: D:\github\CluodMall\.
+2016-03-07 18:28:14.7875|INFO|thread:29|AsyncReaderWriterLock|Released concurrent lock for operation 32: 'LoadFilesInWorkingDirectory' on resource D:\github\CluodMall\.git
+2016-03-07 18:28:14.7875|INFO|thread: 1|SyncButtonViewModel|Getting ahead/behind counts but skipping the fetch.
+2016-03-07 18:28:14.8045|INFO|thread:32|RepositoryConnection|Detecting ahead/behind info for branch: master.
+2016-03-07 18:28:14.8045|INFO|thread:32|RepositoryConnection|branch stats: ahead 0, behind 0
+2016-03-07 18:28:14.8045|INFO|thread: 1|SyncButtonViewModel|Getting ahead/behind counts and running a full fetch.
+2016-03-07 18:28:14.8045|INFO|thread:29|AsyncReaderWriterLock|Acquiring concurrent lock for operation 33: 'FetchFromUpstreamRemote' on resource D:\github\CluodMall\.git
+2016-03-07 18:28:14.8045|INFO|thread:29|AsyncReaderWriterLock|Acquired concurrent lock for operation 33: 'FetchFromUpstreamRemote' on resource D:\github\CluodMall\.git
+2016-03-07 18:28:14.8215|INFO|thread:17|AsyncReaderWriterLock|Released concurrent lock for operation 33: 'FetchFromUpstreamRemote' on resource D:\github\CluodMall\.git
+2016-03-07 18:28:14.8215|INFO|thread:30|GitEnvironment|Process set up with this SSH Agent info: 19708:/tmp/ssh-xLEdkao9PwNQ/agent.10652
+2016-03-07 18:28:14.8215|INFO|thread:30|GitEnvironment|PATH is C:\Users\sunlight\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\cmd;C:\Users\sunlight\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\bin;C:\Users\sunlight\AppData\Local\Apps\2.0\0J1JXG5C.OOE\XXYLP1LO.K8D\gith..tion_317444273a93ac29_0002.000b_d12b9599b2fb59e5;C:\Users\sunlight\AppData\Local\GitHub\hawser-amd64_0.4.0;C:\Program Files (x86)\MSBuild\12.0\bin;C:\WINDOWS\System32
+2016-03-07 18:28:14.8215|INFO|thread:30|ProcessWrapper|Starting: Process - FileName: 'C:\Users\sunlight\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\bin\git.exe', Args: 'fetch origin --prune ', Working Directory: D:\github\CluodMall\
+2016-03-07 18:28:16.5571|INFO|thread:32|RepositoryConnection|Detecting ahead/behind info for branch: master.
+2016-03-07 18:28:16.5571|INFO|thread:32|RepositoryConnection|branch stats: ahead 0, behind 0
+2016-03-07 18:28:20.3768|INFO|thread: 1|RepositoryViewModel|Refreshing all information for repo
+2016-03-07 18:28:20.3768|INFO|thread:33|AsyncReaderWriterLock|Acquiring concurrent lock for operation 34: 'LoadHeadForRepo' on resource D:\github\CluodMall\.git
+2016-03-07 18:28:20.3768|INFO|thread:33|AsyncReaderWriterLock|Acquired concurrent lock for operation 34: 'LoadHeadForRepo' on resource D:\github\CluodMall\.git
+2016-03-07 18:28:20.3979|INFO|thread:23|AsyncReaderWriterLock|Released concurrent lock for operation 34: 'LoadHeadForRepo' on resource D:\github\CluodMall\.git
+2016-03-07 18:28:20.4089|INFO|thread:29|AsyncReaderWriterLock|Acquiring concurrent lock for operation 35: 'LoadFilesInWorkingDirectory' on resource D:\github\CluodMall\.git
+2016-03-07 18:28:20.4089|INFO|thread:32|AsyncReaderWriterLock|Acquired concurrent lock for operation 35: 'LoadFilesInWorkingDirectory' on resource D:\github\CluodMall\.git
+2016-03-07 18:28:20.4219|INFO|thread:34|GitClient|Loading commits for repo: D:\github\CluodMall
+2016-03-07 18:28:20.4219|INFO|thread:34|RepositoryConnection|Loaded '0' commits for repo: D:\github\CluodMall\.
+2016-03-07 18:28:20.4219|INFO|thread:19|GitEnvironment|Process set up with this SSH Agent info: 19708:/tmp/ssh-xLEdkao9PwNQ/agent.10652
+2016-03-07 18:28:20.4219|INFO|thread:19|GitEnvironment|PATH is C:\Users\sunlight\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\cmd;C:\Users\sunlight\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\bin;C:\Users\sunlight\AppData\Local\Apps\2.0\0J1JXG5C.OOE\XXYLP1LO.K8D\gith..tion_317444273a93ac29_0002.000b_d12b9599b2fb59e5;C:\Users\sunlight\AppData\Local\GitHub\hawser-amd64_0.4.0;C:\Program Files (x86)\MSBuild\12.0\bin;C:\WINDOWS\System32
+2016-03-07 18:28:20.4219|INFO|thread:19|ProcessWrapper|Starting: Process - FileName: 'C:\Users\sunlight\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\bin\git.exe', Args: 'status --untracked-files=all --porcelain -z ', Working Directory: D:\github\CluodMall\
+2016-03-07 18:28:20.4424|INFO|thread:34|GitClient|Loading commits for repo: D:\github\CluodMall
+2016-03-07 18:28:20.4424|INFO|thread:34|RepositoryConnection|Loaded '2' commits for repo: D:\github\CluodMall\.
+2016-03-07 18:28:20.5084|INFO|thread:29|AsyncReaderWriterLock|Released concurrent lock for operation 35: 'LoadFilesInWorkingDirectory' on resource D:\github\CluodMall\.git
+2016-03-07 18:28:20.5084|INFO|thread: 1|SyncButtonViewModel|Getting ahead/behind counts but skipping the fetch.
+2016-03-07 18:28:20.5239|INFO|thread:14|RepositoryConnection|Detecting ahead/behind info for branch: master.
+2016-03-07 18:28:20.5239|INFO|thread:14|RepositoryConnection|branch stats: ahead 0, behind 0
